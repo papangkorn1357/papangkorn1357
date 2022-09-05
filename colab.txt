@@ -1,0 +1,4 @@
+About the Authors:
+Joseph Santarcangelo is a Data Scientist at IBM, and holds a PhD in Electrical Engineering.
+His research focused on using Machine Learning, Signal Processing, and Computer Vision to determine how videos impact human cognition. 
+Joseph has been working for IBM since he completed his PhD.
